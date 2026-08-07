@@ -1,4 +1,4 @@
-//! Install Valence TelemetrySink from env and emit one typed counter.
+//! Install Valence `TelemetrySink` from env and emit one typed counter.
 //!
 //! ```bash
 //! VALENCE_TELEMETRY=console CARGO_BUILD_JOBS=1 \
